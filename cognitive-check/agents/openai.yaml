@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cognitive Check"
+  short_description: "Cognitive validation for claims and reasoning"
+  default_prompt: "Use $cognitive-check to evaluate this artifact for claim validity, reasoning quality, assumptions, and upgrade steps."
